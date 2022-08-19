@@ -1,4 +1,4 @@
-Hi there, I'm Supre a french beginner programmer. 
+Hi there, I'm Supre a french apprentice programmer. 
 
 I'm currently working on heavy Java project and learning the language troughout the spigot libraby, by basically editing Minecraft functionalities.
 
