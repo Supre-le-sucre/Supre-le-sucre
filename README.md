@@ -1,11 +1,11 @@
 Hi there, I'm Supre a french apprentice programmer. 
 
-I'm currently working on heavy Java project and learning the language troughout the spigot libraby, by basically editing Minecraft functionalities.
+I'm currently pursuing a dual-degree in maths and computer science where I can learn about theorical and applied programming.
 
-On top of that, I'm also learning how to code in C thanks to the available course on OpenClassroom and times to times experimenting with the python language for some class project
+I've grew interest in computer science by learning how to modify Minecraft, therefore, the first programming language I've learned was Java on the [OpenClassroom Platform](https://openclassrooms.com/f).
+I still really enjoy the objected oriented programming but thanks to my education, I've also been mastering low-level programming language such as C.
 
-If you want to help me onto something, to improve my coding skills, I would be very glad ^^
-
+Computer science is pretty big subject, on which I'm always eager to learn more !
 
 =================[What did I do ?]=================
 
@@ -14,18 +14,21 @@ If you want to help me onto something, to improve my coding skills, I would be v
 - Did an open source plugin called hardcore survival you can check on the spigot page (and also in my repo):
 https://www.spigotmc.org/resources/hardcore-survival.91405/
 
-- Also working on a big Minecraft server project called Nevaty (wich code is private sorry :c) that you can check on here:
-https://nevaty.fr (if the webste is not down again :3)
+- Working on a big Minecraft server project called Nevaty that you can check on [here !](https://nevaty.fr)
 
 > Python
 
-- I did a repo named "RandomThingsIDidInMathClass" that basically sums up my python projects... They are only using one python file 
+- Did a repo named "RandomThingsIDidInMathClass" that basically sums up my python projects (and my very firsts programs in general)... They are only using one python file 
 (as my calcultor does not allow multiple files project)
 
-I should definetly learn python in details, but I'm really onto learning really low level languages for now... So maybe later I guess UwU
+- Did some private researches during my college year
+
+- Essentially used Python as a tool for testing the efficiency of my algorithms 
 
 > C
 
-- Currently learning so no really good stuff to put here :p
+- Mutliple private college projects
 
 ===============================================
+
+My profile picture is representing a complete [magic graph](https://en.wikipedia.org/wiki/Magic_graph) that my friend and I have generated during our researches on this topic.
