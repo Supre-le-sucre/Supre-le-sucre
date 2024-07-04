@@ -31,4 +31,4 @@ https://www.spigotmc.org/resources/hardcore-survival.91405/
 
 ===============================================
 
-My profile picture is representing a complete [magic graph](https://en.wikipedia.org/wiki/Magic_graph) that my friend and I have generated during our researches on this topic.
+My profile picture is representing a complete [magic graph](https://en.wikipedia.org/wiki/Magic_graph) that [my friend](https://github.com/Khanot) and I have generated during our researches on this topic.
