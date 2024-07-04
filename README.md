@@ -11,8 +11,8 @@ Computer science is pretty big subject, on which I'm always eager to learn more 
 
 > Java 
 
-- Did an open source plugin called hardcore survival you can check on the spigot page (and also in my repo):
-https://www.spigotmc.org/resources/hardcore-survival.91405/
+- Did an open source plugin called hardcore survival you can check on the [spigot page](https://www.spigotmc.org/resources/hardcore-survival.91405/) (and also in my repo):
+
 
 - Working on a big Minecraft server project called Nevaty that you can check on [here !](https://nevaty.fr)
 
