@@ -29,6 +29,3 @@ I should definetly learn python in details, but I'm really onto learning really 
 - Currently learning so no really good stuff to put here :p
 
 ===============================================
-
-
-Personal Picture drawn by enwoo#8951 (on Discord)
