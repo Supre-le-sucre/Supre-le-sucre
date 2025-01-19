@@ -5,7 +5,7 @@ I'm currently pursuing a dual-degree in maths and computer science where I can l
 I've grew interest in computer science by learning how to modify Minecraft, therefore, the first programming language I've learned was Java on the [OpenClassroom Platform](https://openclassrooms.com/f).  
 I still really enjoy the objected oriented programming, but thanks to my education, I've also been mastering low-level programming language such as C.
 
-Computer science is pretty big subject, on which I'm always eager to learn more !
+Computer science is a pretty big subject, on which I'm always eager to learn more !
 
 =================[What did I do ?]=================
 
